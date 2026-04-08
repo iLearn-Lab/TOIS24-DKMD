@@ -1,0 +1,22 @@
+=head2 Tue Oct 12 13:24:48 2021: C<Module> L<Sort::Naturally|Sort::Naturally>
+
+=over 4
+
+=item *
+
+C<installed into: /home/share/chenxiaolin/MultimodalDialogSystem/Baseline/MAGIC_MM19/tools//share/perl/5.22.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

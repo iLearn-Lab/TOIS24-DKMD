@@ -1,0 +1,76 @@
+MT evaluation scorer began on 2019 Aug 1 at 15:22:11
+
+command line:  ../mteval-v14c.pl -d 2 -s src.xml -r ref.xml -t tst.xml
+
+Evaluation of Arabic-to-English translation using:
+    src set "example_set" (2 docs, 21 segs)
+    ref set "example_set" (4 refs)
+    tst set "example_set" (1 systems)
+
+  NIST score using 5-grams = 3.9152 for system "sample_system" on segment segment-1 of document "doc1" (10 words)
+  NIST score using 5-grams = 7.4159 for system "sample_system" on segment segment-2 of document "doc1" (46 words)
+  NIST score using 5-grams = 5.7705 for system "sample_system" on segment segment-3 of document "doc1" (29 words)
+  NIST score using 5-grams = 8.6762 for system "sample_system" on segment segment-4 of document "doc1" (23 words)
+  NIST score using 5-grams = 7.6856 for system "sample_system" on segment segment-5 of document "doc1" (26 words)
+  NIST score using 5-grams = 7.9716 for system "sample_system" on segment segment-6 of document "doc1" (35 words)
+  NIST score using 5-grams = 8.6951 for system "sample_system" on segment segment-7 of document "doc1" (52 words)
+  NIST score using 5-grams = 6.0968 for system "sample_system" on segment segment-8 of document "doc1" (50 words)
+  NIST score using 5-grams = 8.6343 for system "sample_system" on segment segment-9 of document "doc1" (45 words)
+NIST score using   5-grams = 7.7565 for system "sample_system" on document "doc1" (9 segments, 316 words)
+  NIST score using 5-grams = 7.1083 for system "sample_system" on segment segment-1 of document "doc2" (20 words)
+  NIST score using 5-grams = 8.3027 for system "sample_system" on segment segment-2 of document "doc2" (55 words)
+  NIST score using 5-grams = 8.5203 for system "sample_system" on segment segment-3 of document "doc2" (44 words)
+  NIST score using 5-grams = 9.0533 for system "sample_system" on segment segment-4 of document "doc2" (29 words)
+  NIST score using 5-grams = 8.8021 for system "sample_system" on segment segment-5 of document "doc2" (56 words)
+  NIST score using 5-grams = 8.0431 for system "sample_system" on segment segment-6 of document "doc2" (39 words)
+  NIST score using 5-grams = 7.7548 for system "sample_system" on segment segment-7 of document "doc2" (36 words)
+  NIST score using 5-grams = 9.3344 for system "sample_system" on segment segment-8 of document "doc2" (26 words)
+  NIST score using 5-grams = 9.7975 for system "sample_system" on segment segment-9 of document "doc2" (60 words)
+  NIST score using 5-grams = 6.2326 for system "sample_system" on segment segment-10 of document "doc2" (38 words)
+  NIST score using 5-grams = 8.1565 for system "sample_system" on segment segment-11 of document "doc2" (29 words)
+  NIST score using 5-grams = 7.6668 for system "sample_system" on segment segment-12 of document "doc2" (41 words)
+NIST score using   5-grams = 8.5550 for system "sample_system" on document "doc2" (12 segments, 473 words)
+  BLEU score using 4-grams = 0.2915 for system "sample_system" on segment segment-1 of document "doc1" (10 words)
+  BLEU score using 4-grams = 0.5312 for system "sample_system" on segment segment-2 of document "doc1" (46 words)
+  BLEU score using 4-grams = 0.2070 for system "sample_system" on segment segment-3 of document "doc1" (29 words)
+  BLEU score using 4-grams = 0.5218 for system "sample_system" on segment segment-4 of document "doc1" (23 words)
+  BLEU score using 4-grams = 0.4545 for system "sample_system" on segment segment-5 of document "doc1" (26 words)
+  BLEU score using 4-grams = 0.3838 for system "sample_system" on segment segment-6 of document "doc1" (35 words)
+  BLEU score using 4-grams = 0.5839 for system "sample_system" on segment segment-7 of document "doc1" (52 words)
+  BLEU score using 4-grams = 0.3694 for system "sample_system" on segment segment-8 of document "doc1" (50 words)
+  BLEU score using 4-grams = 0.5749 for system "sample_system" on segment segment-9 of document "doc1" (45 words)
+BLEU score using   4-grams = 0.4642 for system "sample_system" on document "doc1" (9 segments, 316 words)
+  BLEU score using 4-grams = 0.2799 for system "sample_system" on segment segment-1 of document "doc2" (20 words)
+  BLEU score using 4-grams = 0.5652 for system "sample_system" on segment segment-2 of document "doc2" (55 words)
+  BLEU score using 4-grams = 0.4759 for system "sample_system" on segment segment-3 of document "doc2" (44 words)
+  BLEU score using 4-grams = 0.6288 for system "sample_system" on segment segment-4 of document "doc2" (29 words)
+  BLEU score using 4-grams = 0.7097 for system "sample_system" on segment segment-5 of document "doc2" (56 words)
+  BLEU score using 4-grams = 0.3578 for system "sample_system" on segment segment-6 of document "doc2" (39 words)
+  BLEU score using 4-grams = 0.3945 for system "sample_system" on segment segment-7 of document "doc2" (36 words)
+  BLEU score using 4-grams = 0.5500 for system "sample_system" on segment segment-8 of document "doc2" (26 words)
+  BLEU score using 4-grams = 0.5811 for system "sample_system" on segment segment-9 of document "doc2" (60 words)
+  BLEU score using 4-grams = 0.3923 for system "sample_system" on segment segment-10 of document "doc2" (38 words)
+  BLEU score using 4-grams = 0.3847 for system "sample_system" on segment segment-11 of document "doc2" (29 words)
+  BLEU score using 4-grams = 0.3214 for system "sample_system" on segment segment-12 of document "doc2" (41 words)
+BLEU score using   4-grams = 0.5086 for system "sample_system" on document "doc2" (12 segments, 473 words)
+NIST score = 8.3006  BLEU score = 0.4929 for system "sample_system"
+
+# ------------------------------------------------------------------------
+
+Individual N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  6.3840   1.4581   0.3342   0.0864   0.0379   0.0161   0.0053   0.0024   0.0016   "sample_system"
+
+ BLEU:  0.8834   0.6198   0.4244   0.2782   0.1816   0.1126   0.0724   0.0467   0.0322   "sample_system"
+
+# ------------------------------------------------------------------------
+
+Cumulative N-gram scoring
+        1-gram   2-gram   3-gram   4-gram   5-gram   6-gram   7-gram   8-gram   9-gram
+        ------   ------   ------   ------   ------   ------   ------   ------   ------
+ NIST:  6.3840   7.8421   8.1763   8.2627   8.3006   8.3168   8.3220   8.3244   8.3260   "sample_system"
+
+ BLEU:  0.8635   0.7233   0.6009   0.4929   0.4018   0.3238   0.2606   0.2096   0.1698   "sample_system"
+
+MT evaluation scorer ended on 2019 Aug 1 at 15:22:12
